@@ -26,7 +26,7 @@ Un portal web interactivo desarrollado con **Vue.js 3**, donde los usuarios pued
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/star-wars-portal.git
+   git clone https://github.com/Dp170209/JaredPimentel_2daEvaluacionTWeb..git
    cd 2da-Evaluacion-TecnoWeb
    ```
 
