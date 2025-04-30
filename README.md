@@ -1,5 +1,61 @@
-# Vue 3 + Vite
+# Star Wars Character Portal
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Un portal web interactivo desarrollado con **Vue.js 3**, donde los usuarios pueden explorar personajes del universo de **Star Wars** mediante datos obtenidos dinámicamente desde la **API pública SWAPI.tech**. Incluye efectos visuales galácticos, animaciones suaves, diseño responsive y una experiencia temática cinematográfica.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Características principales
+
+- Consumo de la API https://www.swapi.tech/api/people/
+- Tarjetas animadas con datos clave de cada personaje: nombre, altura, género, año de nacimiento.
+- Imágenes ilustrativas por personaje.
+- Animaciones de entrada en cascada (fade-in delay).
+- Página de inicio animada estilo "Star Wars Intro".
+- Diseño adaptativo y estilizado con Tailwind CSS.
+
+---
+
+## ⚙️ Tecnologías usadas
+
+- [Vue.js 3 + Vite](https://vitejs.dev)
+- [Tailwind CSS](https://tailwindcss.com)
+- [SWAPI.tech](https://www.swapi.tech)
+- Fetch API (nativa)
+
+---
+
+## 🛠️ Instrucciones de instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/star-wars-portal.git
+   cd 2da-Evaluacion-TecnoWeb
+   ```
+
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+
+3. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+4. Abre en tu navegador:
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 📂 Estructura del proyecto
+
+```
+src/
+├── assets/           # Estilos globales
+├── components/       # Navbar, Footer, PersonCard
+├── views/            # Home.vue y People.vue
+├── router/           # Configuración de rutas
+├── App.vue           # Componente raíz
+├── main.js           # Punto de entrada
+```
+
