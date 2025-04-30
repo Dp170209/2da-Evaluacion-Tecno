@@ -3,7 +3,7 @@
 
     <!-- Título de la página Characters -->
     <h1 class="text-4xl font-bold text-center mb-10 text-yellow-400 text-shadow">
-      Star Wars Characters
+      Personajes de Star Wars
     </h1>
 
     <!-- Indicador de carga mientras se obtienen los datos -->
