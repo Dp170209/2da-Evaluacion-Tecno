@@ -1,4 +1,4 @@
-# Star Wars Character Portal
+# Star Wars Portal de personajes
 
 Un portal web interactivo desarrollado con **Vue.js 3**, donde los usuarios pueden explorar personajes del universo de **Star Wars** mediante datos obtenidos dinámicamente desde la **API pública SWAPI.tech**. Incluye efectos visuales galácticos, animaciones suaves, diseño responsive y una experiencia temática cinematográfica.
 
